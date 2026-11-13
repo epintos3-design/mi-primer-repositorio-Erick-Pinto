@@ -1,4 +1,14 @@
-ID,Nombre,Correo,Ciudad
-1,Juan Pérez,juan@ejemplo.com,Portoviejo
-2,María López,maria@ejemplo.com,Portoviejo
-3,Carlos Ruiz,carlos@ejemplo.com,Manta
+ID_Cliente,Nombre,Apellido,Fecha_Registro,Correo_electrónico,Teléfono,Ciudad,Estado_Cliente
+CUST-1000,María,Rodríguez,25/05/2024,maria.rodriguez40@ejemplo.com,555-6206,Guayaquil,Activo
+CUST-1001,Sofía,Martínez,1 de enero de 2024,sofia.martinez88@ejemplo.com,555-5142,Guayaquil,Activo
+CUST-1002,Diego,Martínez,18/01/2024,diego.martinez84@ejemplo.com,555-9463,Manta,Inactivo
+CUST-1003,Andrés,López,19/11/2023,andres.lopez79@ejemplo.com,555-4387,Manta,Activo
+CUST-1004,Laura,Gómez,15/09/2025,laura.gomez20@ejemplo.com,555-4505,Cuenca,Activo
+CUST-1005,Carlos,González,9 de abril de 2023,carlos.gonzalez20@ejemplo.com,555-4997,Machala,Activo
+CUST-1006,Maria,Torres,12/01/2025,maria.torres38@ejemplo.com,555-1979,Quito,Inactivo
+CUST-1007,Pedro,García,18/01/2023,pedro.garcia20@ejemplo.com,555-8210,Manta,Activo
+CUST-1008,Jorge,Ramírez,18 de agosto de 2024,jorge.ramirez56@ejemplo.com,555-1321,Cuenca,Activo
+CUST-1009,Ana,Rivera,17/04/2023,ana.rivera82@ejemplo.com,555-4956,Manta,Activo
+CUST-1010,Miguel,Martínez,4 de mayo de 2023,miguel.martinez36@ejemplo.com,555-5862,Ambato,Inactivo
+CUST-1011,Sofia,Pérez,2307/2024,sofia.perez78@ejemplo.com,555-2986,Cuenca,Activo
+CUST-1012,Juan,López,3 de agosto de 2023,juan.lopez26@ejemplo.com,555-9515,Cuenca,En_Pausa
