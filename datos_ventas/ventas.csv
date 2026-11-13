@@ -1,4 +1,11 @@
-Fecha,Producto,Cantidad,Valor
-01/11/2026,Camisas,10,350
-02/11/2026,Pantalones,15,600
-03/11/2026,Zapatos,8,480
+ID_Venta,Fecha,Producto,Cantidad,Precio_Unitario,Total,Vendedor
+SALE-001,01/11/2026,Camisas,10,35.00,350.00,María Rodríguez
+SALE-002,02/11/2026,Pantalones,15,40.00,600.00,Sofía Martínez
+SALE-003,03/11/2026,Zapatos,8,60.00,480.00,Diego Martínez
+SALE-004,04/11/2026,Camisas,5,35.00,175.00,Laura Gómez
+SALE-005,05/11/2026,Chalecos,7,25.00,175.00,Andrés López
+SALE-006,06/11/2026,Zapatos,12,60.00,720.00,Carlos González
+SALE-007,07/11/2026,Pantalones,8,40.00,320.00,Jorge Ramírez
+SALE-008,08/11/2026,Camisas,6,35.00,210.00,Ana Rivera
+SALE-009,09/11/2026,Medias,50,3.50,175.00,Miguel Martínez
+SALE-010,10/11/2026,Chaquetas,4,85.00,340.00,Sofía Pérez
